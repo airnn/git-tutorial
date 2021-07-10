@@ -2,3 +2,4 @@
 
   - feature-A
   - Fix-C
+  - feature-D
